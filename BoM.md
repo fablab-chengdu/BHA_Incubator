@@ -18,10 +18,11 @@ These are the parts you will need to assemble the incubator:
 |8|2|12mm 按钮|[淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-14787471870.9.f0ce84ae78fGt&id=178523035)|￥0.24|
 |9|1|12V 2A 电源适配器|[淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-14787471870.21.7a787e4f2pjIPg&id=5508192173)|￥13|
 |10|1|2.1mm (5.5mm) 电源端子|[淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-14787471870.9.f0ce84a6IUTJK&id=542227442516)|￥0.5|
-|11|1|加热板（不清楚尺寸）|[淘宝](https://item.taobao.com/item.htm?id=41144584218&ali_refid=a3_420434_1006:1109838798:N:%E5%8A%A0%E7%83%AD%E8%86%9C:53a973808dcbc05567f9690dc4ac721c&ali_trackid=1_53a973808dcbc05567f9690dc4ac721c&spm=a230r.1.1957635.11.ebb2eb2DhHlca)|参考价格￥15|
-|12|1|面包板（可改用洞洞板）淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-14787471870.12.f0ce84aRUv88Z&id=15750094871)|￥2.3|
+|11|1|加热板(不清楚尺寸)|[淘宝](https://item.taobao.com/item.htm?id=41144584218&ali_refid=a3_420434_1006:1109838798:N:%E5%8A%A0%E7%83%AD%E8%86%9C:53a973808dcbc05567f9690dc4ac721c&ali_trackid=1_53a973808dcbc05567f9690dc4ac721c&spm=a230r.1.1957635.11.ebb2eb2DhHlca)|参考价格￥15|
+|12|1|面包板(可改用洞洞板)|[淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-14787471870.12.f0ce84aRUv88Z&id=15750094871)|￥2.3|
 
 *Estimate total*:78.53 RMB
+备注：电子材料育松购买
 
 **Alternatives**
 
