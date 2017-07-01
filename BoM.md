@@ -22,6 +22,7 @@ These are the parts you will need to assemble the incubator:
 |12|1|面包板(可改用洞洞板)|[淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-14787471870.12.f0ce84aRUv88Z&id=15750094871)|￥2.3|
 
 *Estimate total*:78.53 RMB
+
 备注：电子材料育松购买
 
 **Alternatives**
