@@ -10,7 +10,7 @@ These are the parts you will need to assemble the incubator:
 | ------------: | ------------: | :------------ | :------------ | ------------: |
 |1|1|12V 80 mm风扇|[淘宝](https://s.taobao.com/search?q=%E9%A3%8E%E6%89%8712V+80+mm&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20170701&ie=utf8)|￥8|
 |2|1|电源开关|[淘宝](https://s.taobao.com/search?q=%E7%94%B5%E6%BA%90%E5%BC%80%E5%85%B3&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20170701&ie=utf8)|￥2|
-|3|1|防水10K NTC热敏电阻|[淘宝](https://s.taobao.com/search?q=%E9%98%B2%E6%B0%B410K+NTC%E7%83%AD%E6%95%8F%E7%94%B5%E9%98%BB&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20170701&ie=utf8)|￥2.5|
+|3|1|防水10K NTC热敏电阻|[淘宝](https://item.taobao.com/item.htm?spm=a230r.1.14.20.ebb2eb2v6Q6Pk&id=39488699888&ns=1&abbucket=9#detail)|￥1.9|
 |4|1|I2C LCD液晶屏|[淘宝](https://s.taobao.com/search?ie=utf8&initiative_id=staobaoz_20170701&stats_click=search_radio_all%3A1&js=1&imgfile=&q=i2c+lcd%E6%B6%B2%E6%99%B6%E5%B1%8F&suggest=0_3&_input_charset=utf-8&wq=I2C+LCD&suggest_query=I2C+LCD&source=suggest)|￥10|
 |5|2|金氧半场效晶体管|[淘宝](https://s.taobao.com/search?q=MOSFET&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20170701&ie=utf8)|￥2|
 |6|4|10K 电阻|[淘宝](https://s.taobao.com/search?ie=utf8&initiative_id=staobaoz_20170701&stats_click=search_radio_all%3A1&js=1&imgfile=&q=10k%E7%94%B5%E9%98%BB1w&suggest=0_2&_input_charset=utf-8&wq=10K%E7%94%B5%E9%98%BB&suggest_query=10K%E7%94%B5%E9%98%BB&source=suggest)|￥1.5|
