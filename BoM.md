@@ -9,7 +9,7 @@ These are the parts you will need to assemble the incubator:
 |序号|数量|部件|供应商|价格|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
 |1|1|12V 80 mm风扇|[淘宝不确定](https://s.taobao.com/search?q=%E9%A3%8E%E6%89%8712V+80+mm&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20170701&ie=utf8)|￥8|
-|2|1|16A 125V船型电源开关|[淘宝](https://s.taobao.com/search?q=%E7%94%B5%E6%BA%90%E5%BC%80%E5%85%B3&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20170701&ie=utf8)|￥2|
+|2|1|16A 125V船型电源开关|[淘宝](https://s.taobao.com/search?q=16A+125V%E8%88%B9%E5%9E%8B%E7%94%B5%E6%BA%90%E5%BC%80%E5%85%B3&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.1&ie=utf8&initiative_id=tbindexz_20170703)|￥2|
 |3|1|防水10K NTC热敏电阻|[淘宝](https://item.taobao.com/item.htm?spm=a230r.1.14.20.ebb2eb2v6Q6Pk&id=39488699888&ns=1&abbucket=9#detail)|￥1.9|
 |4|1|I2C LCD液晶屏|[淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-14787471870.21.f0ce84aVpehZJ&id=20003403716)|￥8.5|
 |5|2|金氧半场效晶体管|[淘宝](https://detail.tmall.com/item.htm?spm=a230r.1.14.13.ebb2eb22M6xly&id=550793941940&cm_id=140105335569ed55e27b&abbucket=9)|￥27.2|
