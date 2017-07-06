@@ -14,7 +14,7 @@ These are the parts you will need to assemble the incubator:
 |4|1|I2C LCD液晶屏|[淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-14787471870.21.f0ce84aVpehZJ&id=20003403716)|￥8.5|
 |5|2|金氧半场效晶体管|[淘宝](https://detail.tmall.com/item.htm?spm=a230r.1.14.13.ebb2eb22M6xly&id=550793941940&cm_id=140105335569ed55e27b&abbucket=9)|￥27.2|
 |6|4|1w 10K 电阻|[淘宝](https://detail.tmall.com/item.htm?id=17931539065&ali_refid=a3_430583_1006:1104520036:N:10k%201w%E7%94%B5%E9%98%BB:95ec76c1cd6f45b967b6965f2bbfeb9a&ali_trackid=1_95ec76c1cd6f45b967b6965f2bbfeb9a&spm=a230r.1.14.3.ebb2eb2ijlCTV)|￥0.3|
-|7|1|1.5KE30A 单向TVS瞬变抑制二极管|[淘宝](https://detail.tmall.com/item.htm?spm=a230r.1.14.13.ebb2eb2f3HdcI&id=44068219809&cm_id=140105335569ed55e27b&abbucket=9)|￥0.4|
+|7|1|二极管  1.5KE30A 或者 IN4004|[淘宝](https://detail.tmall.com/item.htm?spm=a230r.1.14.13.ebb2eb2f3HdcI&id=44068219809&cm_id=140105335569ed55e27b&abbucket=9)|￥0.4|
 |8|2|12mm 按钮|[淘宝育松](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-14787471870.9.f0ce84ae78fGt&id=178523035)|￥0.24|
 |9|1|12V 2A 电源适配器|[淘宝育松](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-14787471870.21.7a787e4f2pjIPg&id=5508192173)|￥13|
 |10|1|2.1mm (5.5mm) 电源端子|[淘宝育松](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-14787471870.9.f0ce84a6IUTJK&id=542227442516)|￥0.5|
